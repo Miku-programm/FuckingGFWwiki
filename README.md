@@ -17,7 +17,8 @@
 
 **記住這一天，他是言論限制的犧牲者，也是受害者!**
 *************
-#鏈接導航##
+# 鏈接導航
+
 ①**博客和論壇**
 [编程随想的博客](https://program-think.blogspot.com/2019/01/Memorabilia.html)
 
@@ -152,4 +153,20 @@ GO Hosts 如果显示试用三天，你可以用[安裝器](https://www.lanzous.
 
 第一步：下載GO Hosts並打開，如提示獲取ROOT權，允許即可
 ![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/1.png)
+
+二：點擊試用按鈕，註冊賬號
+
+
+
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/3.png)
+
+三：若提示賬號不存在，就點擊註冊按鈕
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/4.png)
+
+四：點擊旁邊的使用按鈕，獲得24小時試用時間
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/5.png)
+
+五：點擊一鍵安裝Hosts，直到最後一個打勾
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/6.png)
+
 
