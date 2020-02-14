@@ -151,4 +151,5 @@ GO Hosts 如果显示试用三天，你可以用[安裝器](https://www.lanzous.
 
 
 第一步：下載GO Hosts並打開，如提示獲取ROOT權，允許即可
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/1.png)
 
