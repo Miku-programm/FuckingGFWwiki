@@ -9,13 +9,6 @@
 本月推薦閱讀: [武汉肺炎暗与明——武汉新型冠状病毒初期相关事件及流言部分收录](https://reurl.cc/dr6LN6)     【需要翻牆】
 
 
-# 置頂一周：2020年2月6日武汉市中心医院医生[李文亮](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E4%BA%AE)抢救无效去世 
-
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/李文亮的训诫书.png)
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/EQHdSKnXUAABk3K.jpg)
-
-**記住這一天，他是言論限制的犧牲者，也是受害者!**
 *************
 # 鏈接導航
 
