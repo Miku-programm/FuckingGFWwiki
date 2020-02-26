@@ -87,13 +87,15 @@
 
 
 [電腦分享翻牆網絡到局域網教程](https://10101.io/2018/12/16/share-vpn-connection-over-wifi)
+
+
 [耿爽模擬器](https://gengshuang1.github.io/)
 
 
 [趙彈磁鐵](https://react-raw8jx.stackblitz.io/)
 
 
-[蘇聯笑話生成器](https://web.archive.org/web/20191201034141/https://namespacexp.github.io/joke/)
+[蘇聯笑話生成器](https://miku-programm.github.io/ShengChengQi/)
 *************
 ⑤**網站導航**
 
