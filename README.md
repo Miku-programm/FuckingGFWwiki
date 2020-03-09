@@ -155,12 +155,24 @@ GO Hosts 如果显示试用三天，你可以用[安裝器](https://www.lanzous.
 ![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/3.png)
 
 三：若提示賬號不存在，就點擊註冊按鈕
+
 ![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/4.png)
 
 四：點擊旁邊的使用按鈕，獲得24小時試用時間
+
 ![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/5.png)
 
 五：點擊一鍵安裝Hosts，直到最後一個打勾
+
 ![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/6.png)
+
+六：打開這三個鏈接並下載
+
+![enter image description here](https://raw.githubusercontent.com/Miku-programm/WIKI_Pic/master/img/6.png)
+
+七：下載這個文件並解壓，從這裡選擇一個VPN，推薦圖片上的那個
+
+![enter image description here](https://github.com/Miku-programm/WIKI_Pic/blob/master/img/7.png?raw=true)
+
 
 
