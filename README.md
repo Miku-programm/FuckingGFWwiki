@@ -102,10 +102,10 @@
 [網站導航](https://123.kfd.me/)
 *******
 # 維基鏈接
-[科學上網維基守則](https://mikugfw.home.blog/2020/02/12/%E7%A7%91%E5%AD%B8%E4%B8%8A%E7%B6%B2%E7%B6%AD%E5%9F%BA%E5%AE%88%E5%89%87/)
+[科學上網維基守則](https://fuckinggfw.blogspot.com/2020/03/blog-post_24.html)
 
 
-[科學上網維基更新日誌](https://mikugfw.home.blog/2020/02/12/%E7%A7%91%E5%AD%B8%E4%B8%8A%E7%B6%B2%E7%B6%AD%E5%9F%BA%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/)
+[科學上網維基更新日誌](https://fuckinggfw.blogspot.com/2020/03/blog-post_91.html)
 *******
 # 通过邮件订阅本维基的博客
 
