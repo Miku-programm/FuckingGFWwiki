@@ -107,7 +107,10 @@
 
 [科學上網維基更新日誌](https://mikugfw.home.blog/2020/02/12/%E7%A7%91%E5%AD%B8%E4%B8%8A%E7%B6%B2%E7%B6%AD%E5%9F%BA%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/)
 *******
-#通过邮件订阅本维基的博客
+# 通过邮件订阅本维基的博客
+
+https://feedburner.google.com/fb/a/mailverify?uri=blogspot/fhsLfi
+
 【订阅请使用国外邮箱[订阅后你将在本维基博客更新24小时以内获得维基更新的邮件通知]】
 
 **请使用翻墙软件打开**
@@ -120,7 +123,7 @@ xiaoyanri@protonmail.com
 
 發郵件到 xiaoyanrui@yeah.net來獲取最新的網址
 
-#专栏：编程随想的博客电子书密钥及下载和邮件订阅
+# 专栏：编程随想的博客电子书密钥及下载和邮件订阅
 BTSync 同步密钥：[（使用說明）](https://github.com/programthink/books)
 
 
