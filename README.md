@@ -123,17 +123,6 @@ xiaoyanri@protonmail.com
 
 發郵件到 xiaoyanrui@yeah.net來獲取最新的網址
 
-# 专栏：编程随想的博客电子书密钥及下载和邮件订阅
-BTSync 同步密钥：[（使用說明）](https://github.com/programthink/books)
-
-
-B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V   訂閱：https://feeds2.feedburner.com/programthink
-
-
-注:请输入谷歌邮箱和Outlook邮箱进行订阅，不支持国内邮箱
-
-
-编程随想邮箱：program.think@gmail.com
 
 
 
