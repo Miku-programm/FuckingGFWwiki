@@ -136,46 +136,6 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V   訂閱：https://feeds2.feedburner.com/progr
 编程随想邮箱：program.think@gmail.com
 
 
-# 安卓翻牆
-如果你没有翻墙软件，請下載[Go Hosts](http://t.cn/AiktU7pg)
-
-
-GO Hosts 如果显示试用三天，你可以用[安裝器](https://www.lanzous.com/i86784d?t)安装谷歌三件套，
-
-
-然后注册谷歌账号，再下载我链接里的中，你也的[VPN](https://www.lanzous.com/i8o91sf?t)
-
-可以谷歌一[APKPure](https://www.lanzous.com/i867bjg?t)
-
-
-第一步：下載GO Hosts並打開，如提示獲取ROOT權，允許即可
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/1.png)
-
-二：點擊試用按鈕，註冊賬號
-
-
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/3.png)
-
-三：若提示賬號不存在，就點擊註冊按鈕
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/4.png)
-
-四：點擊旁邊的使用按鈕，獲得24小時試用時間
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/5.png)
-
-五：點擊一鍵安裝Hosts，直到最後一個打勾
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/fuckGFW_Pic_GO/master/img/6.png)
-
-六：打開這三個鏈接並下載
-
-![enter image description here](https://raw.githubusercontent.com/Miku-programm/WIKI_Pic/master/img/6.png)
-
-七：下載這個文件並解壓，從這裡選擇一個VPN，推薦圖片上的那個
-
-![enter image description here](https://github.com/Miku-programm/WIKI_Pic/blob/master/img/7.png?raw=true)
 
 
 
