@@ -107,21 +107,7 @@
 
 [科學上網維基更新日誌](https://fuckinggfw.blogspot.com/2020/03/blog-post_91.html)
 *******
-# 通过邮件订阅本维基的博客
 
-https://feedburner.google.com/fb/a/mailverify?uri=blogspot/fhsLfi
-
-【订阅请使用国外邮箱[订阅后你将在本维基博客更新24小时以内获得维基更新的邮件通知]】
-
-**请使用翻墙软件打开**
-
-或发送空邮件到 xiaoyanrui@yeah.net 即可收到本维基链接
-
-如本维基有什么错误或有什么需改进之处，请联系本人
-
-xiaoyanri@protonmail.com
-
-發郵件到 xiaoyanrui@yeah.net來獲取最新的網址
 
 
 
